@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atharva-hub
-- 👀 I’m interested in making somwthing intresting!!
+- 👀 I’m interested in making somrthing intresting!!
 - 🌱 I’m currently learning python
 
 <!---
